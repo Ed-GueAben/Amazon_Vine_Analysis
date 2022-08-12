@@ -28,11 +28,11 @@ In the table below we can se the results in a table
 ![table_r](Resources/table_r.png)
 
 -How many Vine reviews and non-Vine reviews were there?
---Vine members are 1.008%(607) and non-vine members are 98.991%(50522)
+  -Vine members are 1.008%(607) and non-vine members are 98.991%(50522)
 
 -How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
---Vine members rated 5 stars are 257 of 607 
---Non-vine members rated 5 stars are 25,220 of 50,522
+  -Vine members rated 5 stars are 257 of 607 
+  -Non-vine members rated 5 stars are 25,220 of 50,522
 
 -What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
