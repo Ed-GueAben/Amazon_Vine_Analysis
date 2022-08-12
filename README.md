@@ -28,7 +28,7 @@ For this analysis I used "amazon_reviews_us_Camera_v1_00.tsv.gz" from the Amazon
 ![yes_vine](Resources/yes_vine.png)
 ![no_vine](Resources/no_vine.png)
 
-In the table below we can se the results in a table 
+In the table below we can se the results.
 ![table_r](Resources/table_r.png)
 
 a) How many Vine reviews and non-Vine reviews were there?
