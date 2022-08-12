@@ -28,15 +28,18 @@ In the table below we can se the results in a table
 ![table_r](Resources/table_r.png)
 
 a) How many Vine reviews and non-Vine reviews were there?
-  -Vine members are 1.008%(607) and non-vine members are 98.991%(50522)
+ -Vine members are 1.008%(607)  
+ -Non-vine members are 98.991%(50522)
 
 b) How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-  -Vine members rated 5 stars are 257 of 607 
-  -Non-vine members rated 5 stars are 25,220 of 50,522
+ -Vine members rated 5 stars are 257 of 607 
+ -Non-vine members rated 5 stars are 25,220 of 50,522
 
 c) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- 42.33% reviews vine members were rated 5 stars
+- 49.91% reviews non-vine were rated 5 stars
 
 ## Summary
-
+Based on the results, Vine members did not show bias when rating their products considering that the number of 5-star ratings was less than Non-Vine members. We can assume that Vine customers are more critical when submitting their review. An additional analysis to get the means of the column "star_rating" we can see that for vine members there is a 4.09 mean and for non-vine "star_rating" there is a 3.86 mean. So we can determine that vine members rate higher than non-vine members, but we have to consider that there are far more non-vine mebers than vine members.
 
 
